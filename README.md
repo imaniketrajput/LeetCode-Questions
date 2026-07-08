@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
