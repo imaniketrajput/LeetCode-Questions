@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0217-contains-duplicate) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
