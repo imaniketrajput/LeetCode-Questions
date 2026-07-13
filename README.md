@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0029-divide-two-integers) |
 | [0172-factorial-trailing-zeroes](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0258-add-digits) |
+| [0877-stone-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0877-stone-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0877-stone-game) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1291-sequential-digits) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
