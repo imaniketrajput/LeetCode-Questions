@@ -139,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2974-minimum-number-game) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
