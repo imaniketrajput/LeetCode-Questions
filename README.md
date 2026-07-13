@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0029-divide-two-integers) |
 | [0172-factorial-trailing-zeroes](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0029-divide-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1486-xor-operation-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
