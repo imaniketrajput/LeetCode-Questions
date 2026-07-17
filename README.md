@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0344-reverse-string](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
