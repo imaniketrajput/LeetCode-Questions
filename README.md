@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0540-single-element-in-a-sorted-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [2810-faulty-keyboard](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2974-minimum-number-game) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0682-baseball-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
