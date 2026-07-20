@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0316-remove-duplicate-letters](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0029-divide-two-integers) |
 | [0172-factorial-trailing-zeroes](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0258-add-digits) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
