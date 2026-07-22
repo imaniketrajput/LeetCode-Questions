@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0084-largest-rectangle-in-histogram](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Divide and Conquer
