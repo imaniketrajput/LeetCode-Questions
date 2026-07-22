@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0682-baseball-game) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0822-card-flipping-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0822-card-flipping-game) |
 | [0875-koko-eating-bananas](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0877-stone-game) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0561-array-partition) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
