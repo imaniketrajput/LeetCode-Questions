@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0922-sort-array-by-parity-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [1260-shift-2d-grid](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1550-three-consecutive-odds](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1550-three-consecutive-odds) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0822-card-flipping-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0822-card-flipping-game) |
 | [1331-rank-transform-of-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3312-sorted-gcd-pair-queries](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0540-single-element-in-a-sorted-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3312-sorted-gcd-pair-queries](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2974-minimum-number-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3024-type-of-triangle) |
