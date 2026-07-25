@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -325,9 +326,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0933-number-of-recent-calls) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
