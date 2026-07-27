@@ -246,12 +246,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0322-coin-change) |
 | [2685-count-the-number-of-complete-components](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Queue
@@ -352,12 +354,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
