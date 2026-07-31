@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2974-minimum-number-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2974-minimum-number-game) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3024-type-of-triangle) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Heap (Priority Queue)
