@@ -5,27 +5,18 @@ public:
 
         sort(begin(nums), end(nums));
 
-        int mini = *min_element(begin(nums), end(nums));
-        int maxi = *max_element(begin(nums), end(nums));
+        int mini = nums[0];
+        int maxi = nums.back();
 
         vector<int> res;
 
-        int i = 0, j=mini;
+        set<int> st(nums.begin(), nums.end());
 
-        while(i<n)
+        for(int i=mini+1; i<=maxi-1; i++)
         {
-            if(nums[i] == j)
-            {
-                i++;
-                j++;
-            }
-            else{
-                res.push_back(j);
-                j++;
-            }
+            if(st.count(i)==0) res.push_back(i);
         }
 
-        
         return res;
 
     }
