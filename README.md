@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2942-find-words-containing-character) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3024-type-of-triangle) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Matrix
 |  |
 | ------- |
