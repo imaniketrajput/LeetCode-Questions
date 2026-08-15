@@ -3,8 +3,7 @@ public:
     int trap(vector<int>& height) {
         int n = height.size();
 
-        int left = 0, right = n-1;
-        int total = 0, leftMax = 0, rightMax = 0;
+        int left = 0, right = n-1, leftMax = 0, rightMax = 0, total = 0;
 
         while(left < right)
         {
@@ -21,6 +20,7 @@ public:
                 left++;
             }
             else{
+                
                 if(rightMax > height[right])
                 {
                     total += rightMax - height[right];
@@ -34,6 +34,5 @@ public:
         }
 
         return total;
-
     }
 };
