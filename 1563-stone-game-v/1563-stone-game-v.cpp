@@ -42,7 +42,36 @@ public:
             cumSum[i] = cumSum[i-1] + stoneValue[i];
         }
 
-        memset(dp, -1, sizeof(dp));
-        return solve(0, n-1, cumSum);
+        vector<vector<int> > dp(n+1, vector<int>(n+1, 0));
+
+        for(int l=n-1; l >= 0; l--)
+        {
+            for(int r = l+1; r<n; r++)
+            {
+                int score = 0;
+
+                for(int mid=l; mid<=r-1; mid++)
+                {
+                    int leftSum = cumSum[mid] - (l-1 >= 0 ? cumSum[l-1] : 0);
+                    int rightSum = cumSum[r] - cumSum[mid];
+
+                    if(leftSum < rightSum)
+                    {
+                        score = max(score, leftSum + dp[l][mid]);
+                    }
+                    else if(leftSum > rightSum)
+                    {
+                        score = max(score, rightSum + dp[mid+1][r]);
+
+                    }
+                    else{
+                        score = max({score, leftSum + dp[l][mid], rightSum + dp[mid+1][r]});
+                    }
+                }
+
+                dp[l][r] = score;
+            }
+        }
+        return dp[0][n-1];
     }
 };
