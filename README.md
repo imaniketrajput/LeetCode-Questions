@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0031-next-permutation) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
