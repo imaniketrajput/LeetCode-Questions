@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1563-stone-game-v) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1550-three-consecutive-odds](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1550-three-consecutive-odds) |
+| [1563-stone-game-v](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1563-stone-game-v) |
 ## Counting Sort
 |  |
 | ------- |
