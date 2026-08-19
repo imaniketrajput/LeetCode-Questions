@@ -19,9 +19,11 @@ public:
 
         vector<int> res;
 
-        while(count < total)
+        int id = 0;
+
+        while(top <= bottom && left <= right)
         {
-            if(count < total)
+            if(id == 0)
             {
                 for(int i=left; i<=right; i++)
                 {
@@ -32,7 +34,7 @@ public:
                 top++;
             }
 
-            if(count < total)
+            if(id == 1)
             {
                 for(int i=top; i<=bottom; i++)
                 {
@@ -43,7 +45,7 @@ public:
                 right--;
             }
 
-            if(count < total)
+            if(id == 2)
             {
                 for(int i=right; i>=left; i--)
                 {
@@ -54,7 +56,7 @@ public:
                 bottom--;
             }
 
-            if(count < total)
+            if(id == 3)
             {
 
                 for(int i=bottom; i>=top; i--)
@@ -65,6 +67,8 @@ public:
 
                 left++;
             }
+
+            id = (id+1)%4;
 
         }
 
