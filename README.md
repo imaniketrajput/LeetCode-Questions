@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0486-predict-the-winner](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0498-diagonal-traverse](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1329-sort-the-matrix-diagonally](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1672-richest-customer-wealth](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1672-richest-customer-wealth) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
