@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0561-array-partition) |
@@ -496,4 +499,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1510-stone-game-iv) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
