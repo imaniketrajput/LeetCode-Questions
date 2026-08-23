@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3707-equal-score-substrings](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3707-equal-score-substrings) |
 ## Math
 |  |
 | ------- |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1140-stone-game-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3707-equal-score-substrings](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3707-equal-score-substrings) |
 ## Ordered Set
 |  |
 | ------- |
