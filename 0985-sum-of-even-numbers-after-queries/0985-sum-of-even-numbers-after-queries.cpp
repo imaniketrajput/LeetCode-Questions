@@ -2,30 +2,36 @@ class Solution {
 public:
     vector<int> sumEvenAfterQueries(vector<int>& nums, vector<vector<int>>& queries) {
         int n = nums.size();
+        int q = queries.size();
+
+        int sumEven = 0;
+
+        for(int& x : nums){
+            if(x%2 == 0)
+                sumEven += x;
+        }
 
         vector<int> result;
 
-        for(auto& query : queries)
-        {
-            int val = query[0];
-            int idx = query[1];
-            
-            nums[idx] += val;
+        for(int i=0; i<q; i++){
+            int val = queries[i][0];
+            int idx = queries[i][1];
 
-            int sum = 0;
-
-            for(int i=0; i<n; i++)
-            {
-                if(!(nums[i]&1))
-                {
-                    sum += nums[i];
-                }
+            if(nums[idx] % 2 == 0){
+                sumEven -= nums[idx];
             }
 
-            result.push_back(sum);
+            nums[idx] += val;
 
+            if(nums[idx] % 2 == 0)
+            {
+                sumEven += nums[idx];
+            }
+
+            result.push_back(sumEven);
         }
 
         return result;
+ 
     }
 };
