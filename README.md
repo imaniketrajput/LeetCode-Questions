@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3707-equal-score-substrings](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3707-equal-score-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Game Theory
 |  |
 | ------- |
