@@ -3,44 +3,37 @@ public:
     vector<int> lexicographicallySmallestArray(vector<int>& nums, int limit) {
         int n = nums.size();
 
-        // {value, original index}
-        vector<pair<int, int>> arr;
+        vector<pair<int, int>> v;
 
         for (int i = 0; i < n; i++) {
-            arr.push_back({nums[i], i});
+            v.push_back({nums[i], i});
         }
 
-        // Sort by value
-        sort(arr.begin(), arr.end());
+        sort(v.begin(), v.end());
 
         vector<int> ans(n);
 
-        int start = 0;
+        for (int l = 0; l < n; ) {
 
-        while (start < n) {
+            int r = l;
 
-            int end = start;
-
-            // Find one connected group
-            while (end + 1 < n &&
-                   arr[end + 1].first - arr[end].first <= limit) {
-                end++;
+            while (r + 1 < n &&
+                   v[r + 1].first - v[r].first <= limit) {
+                r++;
             }
 
-            vector<int> indices;
-
-            for (int i = start; i <= end; i++) {
-                indices.push_back(arr[i].second);
+            vector<int> idx;
+            for (int i = l; i <= r; i++) {
+                idx.push_back(v[i].second);
             }
 
-        
-            sort(indices.begin(), indices.end());
+            sort(idx.begin(), idx.end());
 
-            for (int i = 0; i < indices.size(); i++) {
-                ans[indices[i]] = arr[start + i].first;
+            for (int i = 0; i < idx.size(); i++) {
+                ans[idx[i]] = v[l + i].first;
             }
 
-            start = end + 1;
+            l = r + 1;
         }
 
         return ans;
