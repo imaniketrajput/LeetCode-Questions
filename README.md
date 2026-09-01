@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0498-diagonal-traverse) |
+| [0523-continuous-subarray-sum](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0645-set-mismatch) |
 | [0822-card-flipping-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0822-card-flipping-game) |
 | [1331-rank-transform-of-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0523-continuous-subarray-sum](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -575,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
