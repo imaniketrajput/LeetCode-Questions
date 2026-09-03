@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1550-three-consecutive-odds) |
 | [1563-stone-game-v](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1672-richest-customer-wealth) |
+| [1706-where-will-the-ball-fall](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1706-where-will-the-ball-fall) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1329-sort-the-matrix-diagonally](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1672-richest-customer-wealth](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1672-richest-customer-wealth) |
+| [1706-where-will-the-ball-fall](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1706-where-will-the-ball-fall) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1260-shift-2d-grid](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
+| [1706-where-will-the-ball-fall](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1706-where-will-the-ball-fall) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2810-faulty-keyboard](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2974-minimum-number-game) |
