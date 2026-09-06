@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0054-spiral-matrix) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0498-diagonal-traverse](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0498-diagonal-traverse) |
