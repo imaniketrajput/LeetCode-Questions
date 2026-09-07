@@ -3,40 +3,35 @@ public:
     int minimumAverageDifference(vector<int>& nums) {
         int n = nums.size();
 
-        vector<long long> prefixSum(n, 0), suffixSum(n, 0);
+        long long sum = 0;
 
-        prefixSum[0] = nums[0];
-
-        for(int i=1; i<n; i++)
+        for(int num : nums)
         {
-            prefixSum[i] += prefixSum[i-1]+nums[i]; 
-        } 
+            sum += num;
+        }
 
-        suffixSum[n-1] = nums[n-1];
+        long long RS = 0;
+        long long LS = 0;
 
-        for(int i=n-2; i>=0; i--)
-        {
-            suffixSum[i] += suffixSum[i+1] + nums[i];
-        } 
-
-        long long mini = LLONG_MAX;
-        int ans = 0;
+        int result = INT_MAX;
+        int ans = -1;
 
         for(int i=0; i<n; i++)
         {
-            long long avg1 = prefixSum[i] / (i+1);
-            long long avg2 = 0;
+            LS += nums[i];
+            RS = sum - LS;
 
-            if(i != n-1)
+            int n1 = i+1;
+            int n2 = n - n1;
+
+            long long left_avg = LS / n1;
+            long long right_avg = (i==n-1) ? 0 : RS / n2;
+
+            int diff = abs(left_avg - right_avg);
+
+            if(diff < result)
             {
-                avg2 = suffixSum[i+1] / (n-i-1);
-            }
-
-            long long val = abs(avg1 - avg2);
-
-            if(val < mini)
-            {
-                mini = val;
+                result = diff;
                 ans = i;
             }
         }
