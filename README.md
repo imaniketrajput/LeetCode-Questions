@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
