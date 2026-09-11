@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
+| [0918-maximum-sum-circular-subarray](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1406-stone-game-iii) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0190-reverse-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
 | ------- |
@@ -628,4 +632,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
