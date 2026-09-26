@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0486-predict-the-winner) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0198-house-robber) |
@@ -692,4 +694,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
