@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxDepth(string s) {
-        stack<char> st;
+        int count = 0;
 
         int maxi = 0;
 
@@ -9,13 +9,12 @@ public:
         {
             if(ch == '(')
             {
-                st.push(ch);
-                int s = st.size();
-                maxi = max(maxi, s);
+                count++;
+                maxi = max(maxi, count);
                 
             }
             else if(ch == ')'){
-                st.pop();
+                count--;
             }
             else{
                 continue;
