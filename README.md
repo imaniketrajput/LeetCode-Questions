@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
