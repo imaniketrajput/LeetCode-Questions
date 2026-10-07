@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0100-same-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0909-snakes-and-ladders](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0909-snakes-and-ladders) |
 | [1096-brace-expansion-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1096-brace-expansion-ii) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
