@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-minimum-average-difference](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2256-minimum-average-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
