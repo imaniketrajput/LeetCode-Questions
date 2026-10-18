@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0997-find-the-town-judge) |
 | [2685-count-the-number-of-complete-components](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0547-number-of-provinces](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0909-snakes-and-ladders](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0909-snakes-and-ladders) |
 | [1096-brace-expansion-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
