@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1872-stone-game-viii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1550-three-consecutive-odds](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1550-three-consecutive-odds) |
 | [1563-stone-game-v](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1672-richest-customer-wealth](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1672-richest-customer-wealth) |
 | [1706-where-will-the-ball-fall](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1706-where-will-the-ball-fall) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -581,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -643,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0190-reverse-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Merge Sort
 |  |
 | ------- |
@@ -672,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -680,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
@@ -746,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -764,4 +773,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
