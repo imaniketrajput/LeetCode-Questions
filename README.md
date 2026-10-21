@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0997-find-the-town-judge) |
 | [2685-count-the-number-of-complete-components](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0909-snakes-and-ladders](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0909-snakes-and-ladders) |
 | [1096-brace-expansion-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -808,4 +812,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
