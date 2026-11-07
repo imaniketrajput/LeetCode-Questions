@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-where-will-the-ball-fall](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1706-where-will-the-ball-fall) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1882-process-tasks-using-servers) |
 | [2974-minimum-number-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2974-minimum-number-game) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
