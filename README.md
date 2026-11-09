@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1550-three-consecutive-odds) |
 | [1563-stone-game-v](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1672-richest-customer-wealth](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1672-richest-customer-wealth) |
 | [1706-where-will-the-ball-fall](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1706-where-will-the-ball-fall) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Simulation
 |  |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1260-shift-2d-grid](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1706-where-will-the-ball-fall](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1706-where-will-the-ball-fall) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2810-faulty-keyboard](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2810-faulty-keyboard) |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1882-process-tasks-using-servers) |
 | [2974-minimum-number-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2974-minimum-number-game) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
