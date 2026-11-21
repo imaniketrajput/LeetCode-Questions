@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0997-find-the-town-judge) |
+| [2360-longest-cycle-in-a-graph](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2360-longest-cycle-in-a-graph](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [2360-longest-cycle-in-a-graph](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -898,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
+| [2360-longest-cycle-in-a-graph](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -914,4 +918,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
