@@ -1,6 +1,8 @@
 class Solution {
 public:
 
+    int n;
+
     void DFS(int node, vector<int>& edges, vector<int>& dist, vector<bool>& visited)
     {
         visited[node] = true;
@@ -14,8 +16,39 @@ public:
             DFS(v, edges, dist, visited);
         }
     }
+
+    void BFS(int node, vector<int>& edges, vector<int>& dist)
+    {
+        queue<int> q;
+
+        dist[node] = 0;
+        vector<bool> visited(n, false);
+        q.push(node);
+        visited[node] = true;
+
+        int v = edges[node];
+
+        while(!q.empty())
+        {
+            int u = q.front();
+            q.pop();
+
+            int v = edges[u];
+
+            if(v != -1 && !visited[v])
+            {
+                visited[v] = true;
+                dist[v] = 1 + dist[u];
+                q.push(v);
+
+            }
+
+        }
+        
+    }
+    
     int closestMeetingNode(vector<int>& edges, int node1, int node2) {
-        int n = edges.size();
+        n = edges.size();
 
         vector<int> dist1(n, INT_MAX);
         vector<int> dist2(n, INT_MAX);
@@ -23,12 +56,8 @@ public:
         vector<bool> visited1(n, false);
         vector<bool> visited2(n, false);
 
-        dist1[node1] = 0;
-        dist2[node2] = 0;
-
-
-        DFS(node1, edges, dist1, visited1);
-        DFS(node2, edges, dist2, visited2);
+        BFS(node1, edges, dist1);
+        BFS(node2, edges, dist2);
 
         int minDistNode = -1;
         int minDistTillNow = INT_MAX;
