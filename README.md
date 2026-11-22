@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1927-sum-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1927-sum-game) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2007-find-original-array-from-doubled-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2374-node-with-highest-edge-score](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2374-node-with-highest-edge-score) |
 | [2747-count-zero-request-servers](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2747-count-zero-request-servers) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0997-find-the-town-judge) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2374-node-with-highest-edge-score](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2374-node-with-highest-edge-score) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1872-stone-game-viii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -652,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1267-count-servers-that-communicate](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1267-count-servers-that-communicate) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -873,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -905,11 +911,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0207-course-schedule) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Graph Coloring
 |  |
 | ------- |
