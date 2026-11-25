@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0997-find-the-town-judge) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1267-count-servers-that-communicate) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0909-snakes-and-ladders](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0909-snakes-and-ladders) |
 | [1096-brace-expansion-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1096-brace-expansion-ii) |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0743-network-delay-time](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1882-process-tasks-using-servers) |
@@ -947,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Kosaraju's Algorithm
 |  |
@@ -968,4 +973,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3934-smallest-unique-subarray) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
