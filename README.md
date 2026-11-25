@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1927-sum-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
