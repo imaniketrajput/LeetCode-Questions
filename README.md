@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2374-node-with-highest-edge-score](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2374-node-with-highest-edge-score) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2685-count-the-number-of-complete-components](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1882-process-tasks-using-servers) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2974-minimum-number-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2974-minimum-number-game) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0933-number-of-recent-calls) |
 | [1352-product-of-the-last-k-numbers](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Segment Tree
 |  |
 | ------- |
@@ -952,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/0743-network-delay-time) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Kosaraju's Algorithm
 |  |
