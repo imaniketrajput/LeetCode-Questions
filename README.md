@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
