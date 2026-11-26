@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/imaniketrajput/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
